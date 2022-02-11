@@ -1,0 +1,1 @@
+[2020-11-26T16:14:58.653728+00:00] log.DEBUG: SELECT `Per_Id` AS `lf`, `Per_ThaiName` AS `df`, `Per_ThaiLastName` AS `df2`, '' AS `df3`, '' AS `df4` FROM `personnel` [] []
